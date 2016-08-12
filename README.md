@@ -19,3 +19,15 @@ UDP is a protocol that does not have the same guarantees as TCP. Data sent can g
 
 #### Merkledag
 TODO
+
+#### Random Walk
+
+Querying the DHT for random keys, in order to discover new peers and fill gaps in keyspace
+
+#### MFS
+
+Mutable filesystem (see also: FUSE)
+
+#### unixfs
+
+Merkle-dag based data structures for representing unix files, directories, and symlinks
