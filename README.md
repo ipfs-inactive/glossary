@@ -50,7 +50,7 @@ TCP is a protocol that is used for a huge portion of web traffic. It guarantees 
 UDP is a protocol that does not have the same guarantees as TCP. Data sent can go missing, or arrive in the wrong order.
 
 ### Merkledag
-TODO
+DAG stands for Directed Acyclic Graph, which is a tree data structure without loop. Merkledag is tree linked by hashes.
 
 #### unixfs
 
