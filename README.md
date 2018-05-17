@@ -23,12 +23,6 @@
 
 ## Terms
 
-These terms are not yet defined, but have been suggested as good terms to work on. Please define them if you can!
-
-
-
-### Terms
-
 ### IPFS
 
 See https://en.wikipedia.org/wiki/InterPlanetary_File_System.
@@ -92,7 +86,11 @@ Interplanetary Namespace: this is 'a global namespace based on [PKI](https://en.
 - js-iprs _Forthcoming_
 —https://github.com/ipfs/specs/blob/master/overviews/implement-ipfs.md#iprs
 
-### cbor, starlog, starship, solarnet, DHT (Distributed Hash Table), merkle-dag, Fuse
+### Undefined terms
+
+These terms are not yet defined, but have been suggested as good terms to work on. Please define them if you can!
+
+cbor, starlog, starship, solarnet, DHT (Distributed Hash Table), Fuse
 
 ## Contribute
 
